@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.dc2184f0.chunk.css",
+    "main.js": "/static/js/main.5654f2d0.chunk.js",
+    "main.js.map": "/static/js/main.5654f2d0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1c9531c6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1c9531c6.js.map",
+    "static/css/2.2f7385c4.chunk.css": "/static/css/2.2f7385c4.chunk.css",
+    "static/js/2.dfb72e74.chunk.js": "/static/js/2.dfb72e74.chunk.js",
+    "static/js/2.dfb72e74.chunk.js.map": "/static/js/2.dfb72e74.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3715a829108a385cfb5ea9c0f8005956.js": "/precache-manifest.3715a829108a385cfb5ea9c0f8005956.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.2f7385c4.chunk.css.map": "/static/css/2.2f7385c4.chunk.css.map",
+    "static/css/main.dc2184f0.chunk.css.map": "/static/css/main.dc2184f0.chunk.css.map",
+    "static/js/2.dfb72e74.chunk.js.LICENSE": "/static/js/2.dfb72e74.chunk.js.LICENSE",
+    "static/media/ActiveList.less": "/static/media/listbackground.bc8351ba.jpg",
+    "static/media/logo.jpg": "/static/media/logo.ff380b1c.jpg",
+    "static/media/volunteer.jpg": "/static/media/volunteer.25b884dd.jpg",
+    "static/media/volunteer1.jpg": "/static/media/volunteer1.d9c3d2bf.jpg",
+    "static/media/volunteer2.jpg": "/static/media/volunteer2.ef686a32.jpg",
+    "static/media/个人(1).png": "/static/media/个人(1).e8efed89.png",
+    "static/media/个人.png": "/static/media/个人.82acc8ae.png",
+    "static/media/credit.less": "/static/media/信用.a677ebe7.jpg",
+    "static/media/地址.png": "/static/media/地址.32371b93.png",
+    "static/media/奖牌.png": "/static/media/奖牌.91545768.png",
+    "static/media/学生.png": "/static/media/学生.cf3860fd.png",
+    "static/media/活动.jpg": "/static/media/活动.61499c76.jpg",
+    "static/media/爱心.png": "/static/media/爱心.cb452877.png",
+    "static/media/献爱心(1).png": "/static/media/献爱心(1).74a63a34.png",
+    "static/media/献爱心.png": "/static/media/献爱心.a90a3477.png",
+    "static/media/电话.png": "/static/media/电话.4f461e98.png",
+    "static/media/设置.png": "/static/media/设置.79f159fd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c9531c6.js",
+    "static/css/2.2f7385c4.chunk.css",
+    "static/js/2.dfb72e74.chunk.js",
+    "static/css/main.dc2184f0.chunk.css",
+    "static/js/main.5654f2d0.chunk.js"
+  ]
+}
